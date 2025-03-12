@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Qi Coil</string>
+    <string name="facebook_app_id">913201526417881</string>
+    <string name="facebook_client_token">4cebba8de67acd12c075748541fab70b</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_FirebaseNotifiction_default_channel</string>
+    <string name="RNB_GOOGLE_PLAY_LICENSE_KEY">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAidX5boP0J7vfv3NCczwJJeFgloS6ob6z62pDtMZuuYwFpPYneMqeGfyLWMbwSwE8M4iDCDEvJot3i5KLX/ioPMgOrwerLzQQtQU1hVAUz7xvqh4DfEDuuqqK5KZ0GgeNlgjFs16smcmqkaTzpP7nm9koELZylbsIIMvSFc+RTdAHS+C7TH055oONKxRjzoKaklL1xwTYDk0qo7izpGAhT3SSs901l1Tl88SsWwBTF2vGAwU9C688YFzpvwgu3vdE+a16Hiw+VvSj+PvZ4py7rbYqmQBO+E9rFHjB+CIIEHqhDmAxvFame8ObE1Ajg3+9il/hn0JHwsIPoWCrkGIcNwIDAQAB</string>
+</resources>

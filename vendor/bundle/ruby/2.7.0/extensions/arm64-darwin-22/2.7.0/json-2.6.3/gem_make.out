@@ -1,0 +1,13 @@
+current directory: /Users/dipak/Desktop/Dipak/ReactNative/Maheshbhai/RIFE/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/dipak/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/dipak/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20230309-74487-xsject.rb extconf.rb
+creating Makefile
+
+current directory: /Users/dipak/Desktop/Dipak/ReactNative/Maheshbhai/RIFE/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/dipak/Desktop/Dipak/ReactNative/Maheshbhai/RIFE/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/dipak/Desktop/Dipak/ReactNative/Maheshbhai/RIFE/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install

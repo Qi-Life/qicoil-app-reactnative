@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "258862887141",
+    "project_id": "resonize-7ac41",
+    "storage_bucket": "resonize-7ac41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258862887141:android:3ffca21005b72d9473e40c",
+        "android_client_info": {
+          "package_name": "com.rife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258862887141-vo925g29qmrm47kmdamaoo5dfo73encp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaIdniTUpBZFVWb80m8k2ytiPGGYlt9jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258862887141-vo925g29qmrm47kmdamaoo5dfo73encp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "258862887141-2n49csjhrv3a6cf5objvfrbser2n550j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.resonize.qicoil",
+                "app_store_id": "1643112222"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

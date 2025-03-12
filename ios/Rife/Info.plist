@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Qi Coil</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb913201526417881</string>
+				<string>Resonize</string>
+				<string>com.googleusercontent.apps.258862887141-2n49csjhrv3a6cf5objvfrbser2n550j</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>RIFE</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>Rife</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FacebookAppID</key>
+	<string>913201526417881</string>
+	<key>FacebookClientToken</key>
+	<string>4cebba8de67acd12c075748541fab70b</string>
+	<key>FacebookDisplayName</key>
+	<string>Resonize for Qi Coil</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbauth2</string>
+		<string>Rife</string>
+		<string>Resonize for Qi Coil</string>
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
+		<string>fbshareextension</string>
+		<string>message</string>
+		<string>ms-outlook</string>
+		<string>googlegmail</string>
+		<string>fbapi</string>
+		<string>fbapi20130214</string>
+		<string>fbapi20130410</string>
+		<string>fbapi20130702</string>
+		<string>fbapi20131010</string>
+		<string>fbapi20131219</string>
+		<string>fbapi20140410</string>
+		<string>fbapi20140116</string>
+		<string>fbapi20150313</string>
+		<string>fbapi20150629</string>
+		<string>fbapi20160328</string>
+		<string>fbauth</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your apple music</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your Bluetooth</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your Bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your Calendars</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Resonize for Qi Coil would like to get access to your Camera to capture the photos of your profile.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your Contacts</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your Face ID</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your Location to find near by music.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your Location Always to find near by music</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Allowing location access ensures you maximise the features of the app such as finding nearby music.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allowing location access ensures you maximise the features of the app.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access microphone</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your motion</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Resonize for Qi Coil would like to get access to your Photo albums to capture the photos of your profile.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Resonize for Qi Coil would like to get access to your Photo albums to capture the photos of your profile</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your Calendar Reminder</string>
+	<key>NSSiriUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your Siri</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Resonize for Qi Coil would like to access your speech recognition</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>CutiveMono-Regular.ttf</string>
+		<string>Futura-Bold.ttf</string>
+		<string>Futura-Book.ttf</string>
+		<string>Futura-Medium.ttf</string>
+		<string>HKGrotesk-Bold.ttf</string>
+		<string>HKGrotesk-BoldLegacy.ttf</string>
+		<string>HKGrotesk-Medium.ttf</string>
+		<string>HKGrotesk-MediumLegacy.ttf</string>
+		<string>HKGrotesk-Regular.ttf</string>
+		<string>HKGrotesk-RegularLegacy.ttf</string>
+		<string>HKGrotesk-SemiBold.ttf</string>
+		<string>HKGrotesk-SemiBoldLegacy.ttf</string>
+		<string>UKNumberPlate.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+</dict>
+</plist>
